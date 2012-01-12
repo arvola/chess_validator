@@ -1,0 +1,9 @@
+8 bK -- -- -- -- bB -- -- 8
+7 -- -- -- -- -- bP -- -- 7
+6 -- bP wR -- wB -- bN -- 6
+5 wN -- bP bR -- -- -- wP 5
+4 -- -- -- -- wK wQ -- wP 4
+3 wR -- bB wN wP -- -- -- 3
+2 -- wP bQ -- -- wP -- -- 2
+1 -- -- -- -- -- wB -- -- 1
+  aa bb cc dd ee ff gg hh
